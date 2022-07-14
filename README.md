@@ -56,6 +56,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=33bini)](https://github.com/mazassumnida/33bini)
 
+  <img src="http://mazandi.herokuapp.com/api?handle=33bini&theme=warm"/>
+  
 </div>
 
 <p align="center">
