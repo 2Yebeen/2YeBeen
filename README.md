@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=YeBeen%20Lee&fontAlign=75&fontAlignY=40&color=gradient" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=YeBeen%20Lee&fontAlign=75&fontAlignY=40&color=gradient&customColorList=1,8,14,18,20,22,25,27" />
 </p>
 
 <br />
