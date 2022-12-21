@@ -53,13 +53,13 @@
 </div>
 
 <div align="center" style="text-align:center">
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=33bini)](https://github.com/mazassumnida/33bini)
 
   <img src="http://mazandi.herokuapp.com/api?handle=33bini&theme=warm"/>
   
 </div>
-
+-->
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeblee&count_bg=%239984C4&title_bg=%23A6A6A6&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
