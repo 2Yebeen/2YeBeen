@@ -36,7 +36,7 @@
 
 <div align="center" style="text-align:center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=yeblee&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+  ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=2YeBeen&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
 </div>
  
